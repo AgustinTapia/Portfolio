@@ -11,11 +11,16 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Galería
-      url: /gallery
+#    - text: Galería
+#      url: /gallery
 #    - text: Shop
 #      url : /shop
-
+#    - text: Contact Me
+#      url : /contact
+#    - text: Styleguide
+#      url: /styleguide
+#    - text: Get Started
+#      url: /get-started
 
 
 # Edit these details
@@ -66,7 +71,7 @@ author_project_details:
 
 # social links
 # twitter_username: johndoe
-github_username:  AgustinTapia
+# github_username:  AgustinTapia
 # facebook_username: johndoe
 linkedin_username: agustintapia
 # behance_username: johndoe
