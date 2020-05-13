@@ -1,49 +1,29 @@
 ---
 layout: post
-title: Using Siteleaf CMS with devlopr-jekyll Blog
-author: Sujay Kundu
-date: '2019-05-22 14:35:23 +0530'
-category: guides
-summary: Use Siteleaf CMS for your devlopr jekyll blog
-thumbnail: siteleaf.jpg
+title: Evolucion del COVID-19 en el Peru
+author: Agustin Tapia
+date: '2020-05-01 14:35:23 +0530'
+category: articulos
+summary: Insights sobre la evolución de la pandemia COVID-19 en el Peru
+thumbnail: covid19.png
 ---
 
-Hey There, Today we will see on how to unlock the superpowers of our devlopr-jekyll blog. We will be using Siteleaf CMS to modify content of our blog.
+## El gobierno central, 
 
-Note : If you have not created your blog yet. Create Your Blog , then comeback later
+a través del Ministerio de Salud (MINSA) pública de manera diaria el resumen estadístico sobre la evolución del Covid-19 en nuestro país, por medio del portal de Sala Situacional. Sin embargo, esta información solo muestra un resumen de los datos al día de consulta, más no la evolución de las variables a lo largo del tiempo. Tampoco existe un repositorio público de datos que permita realizar el análisis temporal de las variables relacionadas a esta enfermedad.
 
-Login to [Siteleaf](https://www.siteleaf.com/)
+A pesar de esta situación, existen esfuerzos como el del Dr. Jesús M. Castagnetto, quien ha recopilado la información publicada por el MINSA de manera diaria, desde el inicio de la etapa crítica, generando así una base de datos de importantísima utilidad.
 
-![Using Siteleaf ](/assets/img/posts/siteleaf/1.png){:class="img-fluid"}
+Tomando dicha información como base, a continuación comparto algunos insights sobre la evolución de esta enfermedad en nuestro país. La fecha de corte es el 1 de mayo de 2020:
 
-Select Connect with Github, connect existing repository:
+[Evolucion de los Casos](assets\img\posts\Covid19Peru\evolucion-de-casos.html)
 
-![Using Siteleaf ](/assets/img/posts/siteleaf/2.png){:class="img-fluid"}
+[Distribucion acumulada de los Contagios](assets\img\posts\Covid19Peru\StatDist de los Contagios.png)
 
-Select the repository of your devlopr-jekyll blog:
+[Casos Nuevos por Dia](assets\img\posts\Covid19Peru\/casos-por-dia.html)
 
-![Using Siteleaf ](/assets/img/posts/siteleaf/3.png){:class="img-fluid"}
+[Casos por Zona Geografica](assets\img\posts\Covid19Peru/Casos por Region.png)
 
-Connect and Create Site:
-
-![Using Siteleaf ](/assets/img/posts/siteleaf/4.png){:class="img-fluid"}
-
-After successful import, You will be redirected to manage dashboard :
-
-![Using Siteleaf ](/assets/img/posts/siteleaf/5.png){:class="img-fluid"}
-
-But before making any changes to our blog, we need to change our current Siteleaf membership plan to Free Plan (For Developers)
-
-![Using Siteleaf ](/assets/img/posts/siteleaf/6.png){:class="img-fluid"}
-
-Select Free Plan :
-
-![Using Siteleaf ](/assets/img/posts/siteleaf/8.png){:class="img-fluid"}
-
-Congrats ! Your New Admin Panel for your devlopr-jekyll blog is ready to make any changes to your blog :D
-
-![Using Siteleaf ](/assets/img/posts/siteleaf/9.png){:class="img-fluid"}
-
-
+[Tasa de Letalidad](assets\img\posts\Covid19Peru\Tasa de letalidad Peru.png)
 
 
