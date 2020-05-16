@@ -15,8 +15,8 @@ urls:
 #      url: /gallery
 #    - text: Shop
 #      url : /shop
-#    - text: Contact Me
-#      url : /contact
+    - text: Contacto
+      url : /contact
 #    - text: Styleguide
 #      url: /styleguide
 #    - text: Get Started
@@ -93,7 +93,7 @@ linkedin_username: agustintapia
 #mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
-# formspree_email: a.tapia245@gmail.com
+formspree_email: a.tapia245@gmail.com
 
 # syntax highlighter
 markdown: kramdown
